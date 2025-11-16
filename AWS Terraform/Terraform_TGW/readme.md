@@ -1,4 +1,4 @@
-This folder is the base set up with a terraform file for each resource set up
+This folder is a base set up for TGW lab.
 
 The following resources are built:
 
